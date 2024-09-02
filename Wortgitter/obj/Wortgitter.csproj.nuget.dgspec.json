@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angelos\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj": {}
+    "C:\\Users\\Luca\\Source\\Repos\\Katha2017\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angelos\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj": {
+    "C:\\Users\\Luca\\Source\\Repos\\Katha2017\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angelos\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj",
+        "projectUniqueName": "C:\\Users\\Luca\\Source\\Repos\\Katha2017\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj",
         "projectName": "Wortgitter",
-        "projectPath": "C:\\Users\\Angelos\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj",
-        "packagesPath": "C:\\Users\\Angelos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angelos\\source\\repos\\LF12_Wortgitter\\Wortgitter\\obj\\",
+        "projectPath": "C:\\Users\\Luca\\Source\\Repos\\Katha2017\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj",
+        "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luca\\Source\\Repos\\Katha2017\\LF12_Wortgitter\\Wortgitter\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Angelos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Luca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
