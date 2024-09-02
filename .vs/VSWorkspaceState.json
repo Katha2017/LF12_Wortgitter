@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Wortgitter"
+    "\\Wortgitter",
+    "\\Wortgitter\\bin\\Debug"
   ],
-  "SelectedNode": "\\Wortgitter\\Wortgitter.sln",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
