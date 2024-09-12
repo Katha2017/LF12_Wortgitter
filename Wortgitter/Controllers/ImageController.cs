@@ -1,13 +1,18 @@
 ﻿using IronOcr;
+using Microsoft.AspNetCore.Mvc;
 using Wortgitter.Services;
 
 namespace Wortgitter.Controllers
 {
-    public class ImageController : IImageController
+    [ApiController]
+    [Route("controller")]
+    public class ImageController : ControllerBase, IImageController
     {
+
         private readonly IImageService _imageService;
-        
-        public OcrResult ReadImage(string path)
+
+    [HttpPost("string")]
+    public OcrResult ReadImage(string path)
         {
             OcrResult image = _imageService.ReadImage(path);
             OcrResult result = image;
