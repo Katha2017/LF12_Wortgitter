@@ -45,6 +45,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "IronOcr": {
+              "target": "Package",
+              "version": "[2024.9.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
