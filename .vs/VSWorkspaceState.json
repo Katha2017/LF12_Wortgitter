@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Wortgitter"
+    "\\Wortgitter",
+    "\\Wortgitter\\Controllers"
   ],
   "SelectedNode": "\\Wortgitter\\Wortgitter.sln",
   "PreviewInSolutionExplorer": false
