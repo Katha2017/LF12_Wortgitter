@@ -2,7 +2,7 @@
 
 namespace Wortgitter.Controllers
 {
-    public interface IImageController
+    public interface IImageController 
     {
         public OcrResult ReadImage(string path);
     }

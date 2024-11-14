@@ -1,5 +1,4 @@
 ﻿using IronOcr;
-using IronSoftware;
 
 namespace Wortgitter.Services
 {
@@ -8,8 +7,12 @@ namespace Wortgitter.Services
         public OcrResult ReadImage(string path)
         {
             IronTesseract IronOcr = new IronTesseract();
-            OcrResult Result = IronOcr.Read(path);
-            return Result;
+            using (var input = new OcrInput(path))
+            {
+                var result = IronOcr.Read(input);
+                result.SaveAsHtmlString(path, 200, true);
+                return result;
+            }
             ;
         }
     }
