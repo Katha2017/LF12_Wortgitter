@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Wortgitter",
-    "\\Wortgitter\\Controllers"
+    "\\Wortgitter\\Controllers",
+    "\\Wortgitter\\Models",
+    "\\Wortgitter\\Services"
   ],
-  "SelectedNode": "\\Wortgitter\\Wortgitter.sln",
+  "SelectedNode": "\\Wortgitter\\Services\\ImageService.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -13,7 +13,7 @@ namespace Wortgitter.Controllers
         [HttpPost]
         public OcrResult ReadImage(string path)
         {
-            var textFile = _imageService.ReadImage(path);
+            OcrResult textFile = _imageService.ReadImage(path);
             OcrResult result = textFile;
             return result;
         }

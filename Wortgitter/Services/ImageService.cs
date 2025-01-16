@@ -9,7 +9,7 @@ namespace Wortgitter.Services
             IronTesseract IronOcr = new IronTesseract();
             using (var input = new OcrInput(path))
             {
-                var result = IronOcr.Read(input);
+                OcrResult result = IronOcr.Read(input);
                 result.SaveAsHtmlString(path, 200, true);
                 return result;
             }
