@@ -2,7 +2,7 @@
 
 namespace Wortgitter.Services
 {
-    public class ImageService
+    public class ImageService : IImageService
     {
         public OcrResult ReadImage(string path)
         {

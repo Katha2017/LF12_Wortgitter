@@ -9,3 +9,9 @@
 <script setup>
   //
 </script>
+
+<style>
+.v-main {
+  background: lightgray;
+}
+</style>

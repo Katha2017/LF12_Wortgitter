@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|c:\\users\\angel\\source\\repos\\lf12_wortgitter\\wortgitter\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|solutionrelative:controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|c:\\users\\angel\\source\\repos\\lf12_wortgitter\\wortgitter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|c:\\users\\angel\\source\\repos\\lf12_wortgitter\\wortgitter\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|solutionrelative:services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|c:\\users\\angel\\source\\repos\\lf12_wortgitter\\wortgitter\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|solutionrelative:services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|c:\\users\\angel\\source\\repos\\lf12_wortgitter\\wortgitter\\controllers\\iimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|solutionrelative:controllers\\iimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|c:\\users\\angel\\source\\repos\\lf12_wortgitter\\wortgitter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|c:\\users\\angel\\source\\repos\\lf12_wortgitter\\wortgitter\\wortgitter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F42D85E-5358-481E-AB3F-CBC9B7A34091}|Wortgitter.csproj|solutionrelative:wortgitter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Services\\IImageService.cs",
+              "RelativeDocumentMoniker": "Services\\IImageService.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Services\\IImageService.cs",
+              "RelativeToolTip": "Services\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:06:10.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:50:02.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Wortgitter",
+              "DocumentMoniker": "C:\\Users\\angel\\Source\\Repos\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj",
+              "RelativeDocumentMoniker": "Wortgitter.csproj",
+              "ToolTip": "C:\\Users\\angel\\Source\\Repos\\LF12_Wortgitter\\Wortgitter\\Wortgitter.csproj",
+              "RelativeToolTip": "Wortgitter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T01:30:45.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:59:31.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Services\\ImageService.cs",
+              "RelativeToolTip": "Services\\ImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:53:02.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IImageController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Controllers\\IImageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IImageController.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Controllers\\IImageController.cs",
+              "RelativeToolTip": "Controllers\\IImageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:53:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\LF12_Wortgitter\\Wortgitter\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "Controllers\\ImageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:53:02.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,6 +4,6 @@ namespace Wortgitter.Controllers
 {
     public interface IImageController 
     {
-        public OcrResult ReadImage(string path);
+        public OcrResult ReadImage(IFormFile path);
     }
 }
